@@ -1,6 +1,6 @@
 <h1> crud-operation-in-java-jdbc </h1>
 
- <h2>Project Name:CRUD Operations on Employees Profiles in Java</h2>
+ <h2>Project Name: CRUD Operations on Employees Profiles in Java</h2>
 
 <h2>Objective:</h2> To create a simple Java Console application to perform basic CRUD (Create, Read, Update, Delete) operations for Employees profiles.
 
